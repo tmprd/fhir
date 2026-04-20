@@ -1313,7 +1313,7 @@
       <min value="0"/>
       <max value="1"/>
       <type>
-        <code value="Coding"/>
+        <code value="code"/>
       </type>
       <binding>
         <extension url="http://hl7.org/fhir/StructureDefinition/elementdefinition-bindingName">
@@ -1332,7 +1332,7 @@
       <min value="0"/>
       <max value="1"/>
       <type>
-        <code value="Coding"/>
+        <code value="code"/>
       </type>
       <binding>
         <extension url="http://hl7.org/fhir/StructureDefinition/elementdefinition-bindingName">
